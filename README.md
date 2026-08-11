@@ -1,3 +1,5 @@
+![Screenshot](2.jpg)
+
 # PyBullet Gait Optimization: Genetic Algorithm vs Optuna
 
 Two parallel gait-optimization pipelines for a 6-legged robot (**HexaDog**) simulated in PyBullet, plus a live TensorBoard dashboard for watching (and comparing) both approaches while they train.
