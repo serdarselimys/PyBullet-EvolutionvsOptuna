@@ -1,4 +1,4 @@
-![Screenshot](2.jpg)
+![Screenshot](2.png)
 
 # PyBullet Gait Optimization: Genetic Algorithm vs Optuna
 
